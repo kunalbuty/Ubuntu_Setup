@@ -15,7 +15,7 @@ Basically for every time I brick linux and need to restart :)
 * Cordova
 * Android SDK (more manual setup required)
 
-## IncludedApps
+## Included Apps
 * Spotify
 * Sublime Text 3
 * Google Chrome
