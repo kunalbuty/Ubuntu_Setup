@@ -15,6 +15,7 @@ I'll be trying to update this over time, so stay tuned!
 * MySQL
 * vim
 * npm
+* pip
 * gradle
 * git
 * java 8
