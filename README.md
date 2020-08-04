@@ -1,15 +1,15 @@
-# Ubuntu Setup
+# Ubuntu Setup Automation
+
+## Description
+This is simply a bash file that installs some of the basic programs I use on Ubuntu. Basically for every time I brick linux and need to restart :)
+I'll be trying to update this over time, so stay tuned!
 
 ## Instructions
-This is simply a bash file that installs some of the basic programs I use on Ubuntu.
-Basically for every time I brick linux and need to restart :)
-
-To install, simply do the following
-1) Be the root user
-2) run `sudo ./ubuntuSetup.sh`
-3) You may occasionally have to click `enter` or `y` to confirm a download/install
-4) That's it!
-
+1) Log into ubuntu as a user with root permissions.
+2) Download the bash file. Comment out/remove any lines corresponding to apps/packages you don't want.
+3) Run `sudo ./ubuntuSetup.sh` to begin the installation process.
+4) You may occasionally have to click `enter` or `y` to confirm a download/install.
+5) That's it!
 
 ## Included Packages
 * MySQL
