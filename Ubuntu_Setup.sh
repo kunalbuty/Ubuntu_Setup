@@ -9,6 +9,9 @@ yes | sudo apt install vim
 #npm
 yes | sudo apt-get install npm
 
+#curl
+sudo apt install curl
+
 #pip (python3 and python2)
 yes | sudo apt install python3-pip
 yes | sudo apt install python-pip
