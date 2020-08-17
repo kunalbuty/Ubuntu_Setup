@@ -14,6 +14,7 @@ I'll be trying to update this over time, so stay tuned!
 ## Included Packages
 * MySQL
 * vim
+* curl
 * npm
 * pip
 * gradle
