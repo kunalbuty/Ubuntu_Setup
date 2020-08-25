@@ -31,3 +31,5 @@ I'll be trying to update this over time, so stay tuned!
 * Google Chrome
 * Intellij IDEA
 * Discord
+* Unreal Engine
+  - AirSim Package
