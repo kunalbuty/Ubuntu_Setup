@@ -31,5 +31,5 @@ I'll be trying to update this over time, so stay tuned!
 * Google Chrome
 * Intellij IDEA
 * Discord
-* Unreal Engine (Follow the first four steps of [this tutorial](https://docs.unrealengine.com/en-US/Platforms/Linux/BeginnerLinuxDeveloper/SettingUpAnUnrealWorkflow/index.html) to link epic games to GitHub. GitHub Credentials will be required in terminal)
+* Unreal Engine (Complete the Setting Up Git portion of [this tutorial](https://docs.unrealengine.com/en-US/Platforms/Linux/BeginnerLinuxDeveloper/SettingUpAnUnrealWorkflow/index.html) to link epic games to GitHub. GitHub Credentials will be required in terminal)
   - AirSim Package
